@@ -14,7 +14,8 @@ This a simple mouse wiggler.
     - Binary downloader : https://filebin.net
     - Don't use `.ps1` cause it need to be active on the system in order to use `.ps1`
 
-4. .exe is recognize as a malware for Windows Defender. Find a Solution. 
+4- [ ] Issue: Wiggle only if the `Update.exe` is the main windows
+1. .exe is recognize as a malware for Windows Defender. Find a Solution. 
    - Even the download via Certutil doesn't work. 
 
 
