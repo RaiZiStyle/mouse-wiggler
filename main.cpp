@@ -14,7 +14,7 @@ void makeCircle(int current_x, int current_y) {
 
     // set mouse at center screen
     // SetCursorPos(Height / 2, Width / 2);
-
+    
     // begin spiral! :)
     for (int i = 0; i <= count; i++) {
         angle = .3 * i;
